@@ -20,7 +20,7 @@ This project has four major parts :
 
 Running the project
 
-    I am using Visual studio code to run my project, you can choose your own editor 
+    I am using Visual studio code to run my project, you can choose your own editor.
    Run the below commands by opening cmd prompt in the same folder, consists of all files
    
 python model.py

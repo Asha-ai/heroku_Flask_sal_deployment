@@ -13,9 +13,9 @@ Prerequisites
 
 This project has four major parts :
 
-    model.py - This contains code for our ML model to predict employee salaries absed on trainign data in 'hiring.csv' file.
+    model.py - This contains code for our ML model to predict employee salaries observed on training data in 'hiring.csv' file.
     app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
-    request.py - This uses requests module to call APIs already defined in app.py and dispalys the returned value.
+    request.py - This uses requests module to call APIs already defined in app.py and dispaly the returned value.
     templates -  HTML template to allow user to enter employee detail and displays the predicted employee salary.
 
 Running the project

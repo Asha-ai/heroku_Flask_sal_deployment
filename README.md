@@ -2,7 +2,7 @@
 https://www.analyticsvidhya.com/blog/2021/02/ml-model-deployment-with-webhosting-frameworks/
 
 ### Major Steps to fallow
-code is in github **master branch 
+code is in github **master branch** 
 fork/down load the zip file,consists of model.py,app.py,request.py,templates and csv files.
 read the folder into Visual Studio Code 
 and run the below commands 

@@ -11,7 +11,7 @@ we will get an URL - http://localhost:5000
 Deploy this @ Heroku explained in detialed in the above blog
 
 ### Details
-###### Check the all code files in "master" branch
+###### Check the all code files are @ "master" branch
 
 ## Code File Details
 ### heroku_Flask_sal_deployment
